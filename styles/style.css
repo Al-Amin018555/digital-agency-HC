@@ -118,7 +118,19 @@
     gap: 50px;
     padding: 20px;
 }
+.appointment-container{
+    display: flex;
+    gap: 20px;
+    background-color: rgba(255, 0, 0,0.7);
+    padding: 20px;
+    width: 70%;
+    align-items: center;
+    margin: 0px auto;
+    margin-top: -20px;
+    border-radius: 20px;
+}
 .consultation-apt{
-   
    display: flex;
+   align-items: center;
+   gap: 10px;
 }
